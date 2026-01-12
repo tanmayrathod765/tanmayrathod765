@@ -12,7 +12,7 @@
 - 💻 Skilled in **MERN Stack & AI/ML**  
 - 🌱 Currently learning **Advanced React & Machine Learning**  
 - 🎯 Goal: Build scalable & real-world projects  
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **rathodsonu107@gmail.com**
 
 ---
 
@@ -36,14 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayrathod765&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=tanmayrathod765&theme=tokyonight" />
-</p>
 
 ---
 
